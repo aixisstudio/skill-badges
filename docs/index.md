@@ -29,14 +29,37 @@ Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon nam
 
 > Full catalog: https://skillicons.dev — new icons ship regularly.
 
+## 🧰 Extended icon sets
 
-## ❓ Frequently Asked Questions
+### Languages row
+```markdown
+<img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,c,cpp,java,swift,ruby,php,kotlin&perline=12" />
+```
 
-**How do I add skill icons to my README?**
+### Infrastructure row
+```markdown
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,ansible,jenkins,githubactions&perline=12" />
+```
 
-Use `![skills](https://skillicons.dev/icons?i=python,rust,go)` — this repo documents every icon name and option.
+### Creative row
+```markdown
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr&perline=8" />
+```
 
+## 🎨 Theming
+
+| Param | Effect |
+|---|---|
+| `&theme=dark` | Dark icons (default: light) |
+| `&perline=N` | Wrap every N icons |
+| `&i=` | Comma-separated icon list |
+
+## 🔤 Alternatives to skillicons
+
+- **Shields static badges** — more customizable text
+- **simple-icons** (raw SVG) — `cdn.simpleicons.org/<name>/<hex>` — infinite brand set
+- **devicons** — `devicon.dev` — original icon font set
+- **techstack-icons** — `techstack-icons.vercel.app` — animated option
 
 ---
-
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall. See also: [all resources](https://aixisstudio.github.io).
+Maintained by [aixisstudio](https://github.com/aixisstudio).
