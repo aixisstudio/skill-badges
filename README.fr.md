@@ -4,66 +4,64 @@
 
 Icônes et badges de compétences pour ton profil GitHub
 
-_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
+Un badge d'adresse unique pour votre README
 
-## ⚡ One-line skill badges for your README
-
-Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon names:
+Propulsé par [skillicons.dev](https://skillicons.dev) — noms d'icônes séparées par des virgules:
 
 ```markdown
 ![My Skills](https://skillicons.dev/icons?i=python,rust,js,ts,go,bash)
 ![More](https://skillicons.dev/icons?i=docker,k8s,linux,git,github,vscode)
 ```
 
-## 🎛️ Options
+Options
 
-| Param | Effect |
+Effet du param
 |---|---|
-| `theme=light` | Light-mode icons |
-| `perline=6` | Icons per row |
-| `i=name1,name2` | Icon list |
+Symboles en mode lumière
+Icônes par rangée
+Liste des icônes
 
 ```markdown
 ![Skills](https://skillicons.dev/icons?i=python,rust,go&theme=light&perline=3)
 ```
 
-## 📚 Popular icon names
+Noms d'icônes populaires
 
-`python` `rust` `javascript` `typescript` `go` `java` `cpp` `c` `rust` `php` `ruby` `swift` `kotlin` `dart` `html` `css` `react` `vue` `svelte` `nextjs` `nodejs` `django` `flask` `fastapi` `postgres` `mysql` `mongodb` `redis` `docker` `kubernetes` `aws` `gcp` `azure` `linux` `git` `github` `gitlab` `vscode` `vim` `neovim` `figma` `ps` `ai` `blender` `unity` `unreal` `raspberrypi` `arduino` `tensorflow` `pytorch`
+`python` `rust` `javascript` `typescript` `go` `java` `cpp` `c` `rust` `php` `ruby` `swift` `kotlin` `dart` `html` `css` `react` `vue` `svelte` `nextjs` `nodejs` `django` `flask` `fastapi` `postgres` `mysql` `mongodb` `redis` `docker` `kubernetes` `aws` `gcp` `azure` `linux` `git` `github` `gitlab` `vscode` `vim` `neovim` `neovim` `ps` `ai` `blender` `blender` `unity` `unreal` `raspberrypi` `arduino` `tensorflow` `tensorflow` `pytorch`
 
-> Full catalog: https://skillicons.dev — new icons ship regularly.
+> Catalogue complet : https://skillicons.dev — de nouvelles icônes expédient régulièrement.
 
-## 🧰 Extended icon sets
+Ensembles d'icônes étendus
 
-### Languages row
+### Ligne des langues
 ```markdown
 <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,c,cpp,java,swift,ruby,php,kotlin&perline=12" />
 ```
 
-### Infrastructure row
+Ligne Infrastructure
 ```markdown
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,ansible,jenkins,githubactions&perline=12" />
 ```
 
-### Creative row
+Ligne créative
 ```markdown
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr&perline=8" />
 ```
 
-## 🎨 Theming
+## # Les choses
 
-| Param | Effect |
+Effet du param
 |---|---|
-| `&theme=dark` | Dark icons (default: light) |
-| `&perline=N` | Wrap every N icons |
-| `&i=` | Comma-separated icon list |
+`&theme=dark`: icônes sombres (par défaut: lumière)
+Enveloppez chaque icône N
+Liste des icônes séparées par des virgules
 
-## 🔤 Alternatives to skillicons
+Les alternatives aux skilicons
 
-- **Shields static badges** — more customizable text
-- **simple-icons** (raw SVG) — `cdn.simpleicons.org/<name>/<hex>` — infinite brand set
-- **devicons** — `devicon.dev` — original icon font set
-- **techstack-icons** — `techstack-icons.vercel.app` — animated option
+- **Shields badges statiques** — texte plus personnalisable
+- **simple-icônes** (simple SVG) — `cdn.simpleicons.org/<name>/<hex>` — ensemble de marque infini
+- **devicons** — `devicon.dev` — ensemble de polices d'icônes originales
+- **techstack-icons** — `techstack-icons.vercel.app` — option animée
 
 ---
 ## Contribuer
