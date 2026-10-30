@@ -4,66 +4,64 @@
 
 GitHub プロフィール用スキルアイコン＆バッジ
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## ⚡ README のためのワンラインスキルバッジ
 
-## ⚡ One-line skill badges for your README
-
-Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon names:
+[skillicons.dev](https://skillicons.dev) - コンマ区切りアイコン名:
 
 ```markdown
 ![My Skills](https://skillicons.dev/icons?i=python,rust,js,ts,go,bash)
 ![More](https://skillicons.dev/icons?i=docker,k8s,linux,git,github,vscode)
 ```
 
-## 🎛️ Options
+## ️️ オプション
 
-| Param | Effect |
+| パラム | 効果 |
 |---|---|
-| `theme=light` | Light-mode icons |
-| `perline=6` | Icons per row |
-| `i=name1,name2` | Icon list |
+| `theme=light` | 光モードアイコン |
+| `perline=6` | 1列あたりのアイコン |
+| `i=name1,name2` | アイコンリスト |
 
 ```markdown
 ![Skills](https://skillicons.dev/icons?i=python,rust,go&theme=light&perline=3)
 ```
 
-## 📚 Popular icon names
+## 人気のアイコン名
 
-`python` `rust` `javascript` `typescript` `go` `java` `cpp` `c` `rust` `php` `ruby` `swift` `kotlin` `dart` `html` `css` `react` `vue` `svelte` `nextjs` `nodejs` `django` `flask` `fastapi` `postgres` `mysql` `mongodb` `redis` `docker` `kubernetes` `aws` `gcp` `azure` `linux` `git` `github` `gitlab` `vscode` `vim` `neovim` `figma` `ps` `ai` `blender` `unity` `unreal` `raspberrypi` `arduino` `tensorflow` `pytorch`
+`python` `rust` `javascript` `typescript` `go` `java` `cpp` `c` `rust` `php` `ruby` `swift` `kotlin` `html` `css` `react` `vue` `vue` `svelte` `nodejs` `nodejs` `flask` CDPHH22X `postgres` `aws` `aws` `azure` CDPHX CDPHX `react` CDPHX `react` CDPHX `react` CDPHX CDPHX CDPHX CDPHX CDPHX `react` CDPHX CDPHX CDPHX CDPHX CDPHX `react` CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CD
 
-> Full catalog: https://skillicons.dev — new icons ship regularly.
+> フルカタログ: https://skillicons.dev — 新しいアイコンが定期的に出荷されます。
 
-## 🧰 Extended icon sets
+## 延長アイコンセット
 
-### Languages row
+### 言語行
 ```markdown
 <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,c,cpp,java,swift,ruby,php,kotlin&perline=12" />
 ```
 
-### Infrastructure row
+##インフラ行
 ```markdown
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,ansible,jenkins,githubactions&perline=12" />
 ```
 
-### Creative row
+####クリエイティブ・ライン
 ```markdown
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr&perline=8" />
 ```
 
-## 🎨 Theming
+## チャレンジ
 
-| Param | Effect |
+| パラム | 効果 |
 |---|---|
-| `&theme=dark` | Dark icons (default: light) |
-| `&perline=N` | Wrap every N icons |
-| `&i=` | Comma-separated icon list |
+| `&theme=dark` | ダークアイコン(デフォルト:ライト) |
+| `&perline=N` | すべての N アイコンをラップ |
+| `&i=` | コンマ区切りアイコン一覧 |
 
-## 🔤 Alternatives to skillicons
+## 🔤 スキルの代替
 
-- **Shields static badges** — more customizable text
-- **simple-icons** (raw SVG) — `cdn.simpleicons.org/<name>/<hex>` — infinite brand set
-- **devicons** — `devicon.dev` — original icon font set
-- **techstack-icons** — `techstack-icons.vercel.app` — animated option
+- **シールド静的バッジ** — よりカスタマイズ可能なテキスト
+-**単純なアイコン**(SVGを描画) — `cdn.simpleicons.org/<name>/<hex>` — 無限のブランドセット
+- **devicons** — `devicon.dev` — オリジナルアイコンフォントセット
+- **techstack-icons** — `techstack-icons.vercel.app` — アニメーションオプション
 
 ---
 ## 貢献
