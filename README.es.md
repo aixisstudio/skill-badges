@@ -4,24 +4,22 @@
 
 Iconos y badges de habilidades para tu perfil
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
+♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪
 
-## ⚡ One-line skill badges for your README
-
-Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon names:
+Powered by [skillicons.dev] (https://skillicons.dev) — nombres de iconos separados por coma:
 
 ```markdown
 ![My Skills](https://skillicons.dev/icons?i=python,rust,js,ts,go,bash)
 ![More](https://skillicons.dev/icons?i=docker,k8s,linux,git,github,vscode)
 ```
 
-## 🎛️ Options
+Opciones
 
-| Param | Effect |
+Silencio para el futuro
 |---|---|
-| `theme=light` | Light-mode icons |
-| `perline=6` | Icons per row |
-| `i=name1,name2` | Icon list |
+Silencio `theme=light` Silencio Iconos de luna de luz
+Silencio `perline=6`
+Silencio `i=name1,name2`
 
 ```markdown
 ![Skills](https://skillicons.dev/icons?i=python,rust,go&theme=light&perline=3)
@@ -29,18 +27,18 @@ Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon nam
 
 ## 📚 Popular icon names
 
-`python` `rust` `javascript` `typescript` `go` `java` `cpp` `c` `rust` `php` `ruby` `swift` `kotlin` `dart` `html` `css` `react` `vue` `svelte` `nextjs` `nodejs` `django` `flask` `fastapi` `postgres` `mysql` `mongodb` `redis` `docker` `kubernetes` `aws` `gcp` `azure` `linux` `git` `github` `gitlab` `vscode` `vim` `neovim` `figma` `ps` `ai` `blender` `unity` `unreal` `raspberrypi` `arduino` `tensorflow` `pytorch`
+CDPH0PHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPH4 CDPHX CDPHX CDPHX CDPH4 CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPHX CDPH
 
-> Full catalog: https://skillicons.dev — new icons ship regularly.
+catálogo completo: https://skillicons.dev — nuevos iconos envían regularmente.
 
 ## 🧰 Extended icon sets
 
-### Languages row
+## Lenguas hileras
 ```markdown
 <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,c,cpp,java,swift,ruby,php,kotlin&perline=12" />
 ```
 
-### Infrastructure row
+## Infrastructure row
 ```markdown
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,ansible,jenkins,githubactions&perline=12" />
 ```
@@ -50,20 +48,20 @@ Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon nam
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr&perline=8" />
 ```
 
-## 🎨 Theming
+♪ ♪ ♪ ♪
 
-| Param | Effect |
+Silencio para el futuro
 |---|---|
-| `&theme=dark` | Dark icons (default: light) |
-| `&perline=N` | Wrap every N icons |
-| `&i=` | Comma-separated icon list |
+Silencio `&theme=dark` Silencio Oscuros iconos (por defecto: luz)
+confidencialidad `&perline=N` Silencioso todos los iconos N
+Silencio `&i=` Silencio Lista de iconos separadas por el sistema
 
 ## 🔤 Alternatives to skillicons
 
-- **Shields static badges** — more customizable text
-- **simple-icons** (raw SVG) — `cdn.simpleicons.org/<name>/<hex>` — infinite brand set
-- **devicons** — `devicon.dev` — original icon font set
-- **techstack-icons** — `techstack-icons.vercel.app` — animated option
+**Shields static badges** — texto más personalizable
+- **simple-icons** (raw SVG) - `cdn.simpleicons.org/<name>/<hex>` - conjunto de marca infinito
+**devicons** — `devicon.dev` — original icono fuente set
+**techstack-icons** — `techstack-icons.vercel.app` — opción animada
 
 ---
 ## Contribuir
