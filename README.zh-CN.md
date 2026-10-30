@@ -4,66 +4,64 @@
 
 GitHub 个人主页技能图标徽章
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+* * * * * * * 用于读取的单行技能徽章
 
-## ⚡ One-line skill badges for your README
-
-Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon names:
+由[skillicons.dev](https://skillicons.dev)——逗号分隔图标名称提供动力:
 
 ```markdown
 ![My Skills](https://skillicons.dev/icons?i=python,rust,js,ts,go,bash)
 ![More](https://skillicons.dev/icons?i=docker,k8s,linux,git,github,vscode)
 ```
 
-## 🎛️ Options
+# # # # # 选项
 
-| Param | Effect |
+* 帕拉姆 * 效果 *
 |---|---|
-| `theme=light` | Light-mode icons |
-| `perline=6` | Icons per row |
-| `i=name1,name2` | Icon list |
+`theme=light` 光模图标
+`perline=6` 每行图标
+`i=name1,name2` 图标列表
 
 ```markdown
 ![Skills](https://skillicons.dev/icons?i=python,rust,go&theme=light&perline=3)
 ```
 
-## 📚 Popular icon names
+# # # # 流行图标名称
 
-`python` `rust` `javascript` `typescript` `go` `java` `cpp` `c` `rust` `php` `ruby` `swift` `kotlin` `dart` `html` `css` `react` `vue` `svelte` `nextjs` `nodejs` `django` `flask` `fastapi` `postgres` `mysql` `mongodb` `redis` `docker` `kubernetes` `aws` `gcp` `azure` `linux` `git` `github` `gitlab` `vscode` `vim` `neovim` `figma` `ps` `ai` `blender` `unity` `unreal` `raspberrypi` `arduino` `tensorflow` `pytorch`
+`python` `rust` `javascript` `typescript` `go` `java` `cpp` `php` `ruby` `swift` `kotlin` `dart` `html` `css` `vue` `svelte` `nextjs` `nodejs` `flask` `fastapi` `postgres` `redis` `docker` `kubernetes` `aws` `gcp` `azure` `linux` `vscode` `vim` `neovim` `figma` `ps` CDPH424X `unreal` CDPH4647X `tensorflow` `pytorch` CDPH49
 
-> Full catalog: https://skillicons.dev — new icons ship regularly.
+>完整目录:https://skillicons.dev——新图标定期飞船.
 
-## 🧰 Extended icon sets
+# # # # # 扩展图标集
 
-### Languages row
+语言行
 ```markdown
 <img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,c,cpp,java,swift,ruby,php,kotlin&perline=12" />
 ```
 
-### Infrastructure row
+基础设施行
 ```markdown
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,ansible,jenkins,githubactions&perline=12" />
 ```
 
-### Creative row
+创作行
 ```markdown
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr&perline=8" />
 ```
 
-## 🎨 Theming
+□□□□□□□
 
-| Param | Effect |
+* 帕拉姆 * 效果 *
 |---|---|
-| `&theme=dark` | Dark icons (default: light) |
-| `&perline=N` | Wrap every N icons |
-| `&i=` | Comma-separated icon list |
+| `&theme=dark` | 黑暗图标(默认:光) | |
+`&perline=N` 环绕每个 N 图标
+`&i=` 以逗号分隔的图标列表
 
-## 🔤 Alternatives to skillicons
+□□□□□□□ 替代手工业相
 
-- **Shields static badges** — more customizable text
-- **simple-icons** (raw SVG) — `cdn.simpleicons.org/<name>/<hex>` — infinite brand set
-- **devicons** — `devicon.dev` — original icon font set
-- **techstack-icons** — `techstack-icons.vercel.app` — animated option
+- **Shields 静态徽章**——更定制的文本
+- **simple-cons**(raw SVG)——`cdn.simpleicons.org/<name>/<hex>`——无限品牌集
+- **devicons** — `devicon.dev` — 原始图标字体集
+- **技术袋-凸轮** — `techstack-icons.vercel.app` — 动画选项
 
 ---
 ## 贡献
