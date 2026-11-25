@@ -64,7 +64,7 @@ Powered by [skillicons.dev](https://skillicons.dev) — comma-separated icon nam
 - **techstack-icons** — `techstack-icons.vercel.app` — animated option
 
 ---
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall.
+Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Wiretap](https://github.com/aixisstudio/Wiretap), the open-source application firewall.
 
 ## License
 
